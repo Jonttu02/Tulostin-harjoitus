@@ -15,13 +15,13 @@ public class App {
         double luku2 = 2;
         double tulo;
 
-        tulo = luku1 - luku2;
+        tulo = luku1 + luku2;
 
         System.out.println("Luku1 muuttujan arvo on " + luku1);
 
         System.out.println("Luku2 muuttujan arvo on " + luku2);
 
-        System.out.println("5 - 2 = " + tulo);
+        System.out.println("5 + 2 = " + tulo);
 
 
         
